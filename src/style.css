@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.stjerne {
+  width: 40px;
+  height: 40px;
+  float: left;
+}
